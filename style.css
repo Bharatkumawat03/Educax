@@ -1,0 +1,308 @@
+/* .navbar-brand{
+    color: #135a71;
+} */
+/* .navbar{
+  margin-left: 142.8px;
+  margin-right: 142.8px;
+} */
+
+.btn-primary{
+  background-color: #135a71;  
+  border:none;
+  height: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.sign{
+  color: #135a71;
+  height: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.btn-outline-primary{
+  color: #135a71;
+  border-color: #135a71;
+  height: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+
+}
+
+
+.star{
+  
+  border-radius: 14px;
+  
+  /* display: flex;
+  align-items: center; */
+}
+
+.bi{
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+/* .compcolor{
+  color: #135a71;
+} */
+
+/* .headiv{
+  margin-right: 0px;
+} */
+
+/* .headsec{
+  margin-bottom: 115px;
+  padding-top: 0px;
+} */
+
+
+
+.platform{
+  font-weight: 800;
+  /* font-size: 70px; */
+}
+
+/* .dropcolor{
+  color: black;
+} */
+
+
+
+
+
+/* .starpad{
+  padding: 8px 15px ;
+  padding-top: 70px;
+} */
+
+
+
+/* .logo{
+  font-weight: 800;
+} */
+
+/* .headimg{
+  width: 1000px;
+  height: auto;
+} */
+
+.mission{
+  font-size: 14px;
+  font-weight: 700;
+  padding: 12px 0px;
+  margin-bottom: 32px;
+}
+
+.readour{
+  font-size: smaller;
+  font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
+.swipercolor{
+  /* background-color: #87d9f36e; */
+  width: 200px;
+}
+
+
+
+.swipercolor:hover{
+  background-color: white;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24);
+  
+}
+
+
+
+.darkcolor{
+  color: #135a71;
+
+}
+.lightcolor{
+  color: #0b86ae;
+}
+
+.orange{
+  color: coral;
+}
+
+.latestcourse{
+  font-weight: 700;
+}
+
+.dropdown-toggle::after{
+  display: none;
+}
+.dropdown,.nav-link{
+  list-style-type: none;
+}
+
+.swipercolor:hover .arrowlogo{
+  background-color: coral;
+  border-radius: 50%;
+  fill: white;
+}
+
+
+
+.bestcourse{
+  width: 60%;
+  
+}
+
+.presenterlogo{
+  background-color: #0b86ae;
+  border-radius: 10px;
+  height: 40px;
+}
+
+.latest1{
+  background-color: #87daf337;
+  margin-bottom: 0px;
+}
+
+.numbers{
+  background-color: #135a71;
+}
+
+/* .year25{
+  margin-left: 100px;
+} */
+
+/* .yearexp{
+  margin-left: 0px;
+} */
+
+
+.orangebg{
+  background-color: coral;
+}
+
+.mentorwidth{
+  width: 60%;
+}
+
+
+.width11{
+  width: 85%;
+}
+
+.imgpadding{
+  padding: 20px;
+  border-radius: 30px;
+}
+
+.btnw{
+  height: 30px;
+  width: 60px;
+  background-color: #87daf337;
+  font-weight: bolder;
+}
+
+.card{
+  border: none;
+}
+
+.coursecard:hover .plus{
+  fill: coral;
+}
+
+.coursecard:hover .title{
+  color: coral;
+  text-decoration-line: underline;
+}
+ 
+
+.lightbg{
+  background-color: #87daf337;
+}
+
+.licolor{
+  color: #87daf337;
+
+}
+
+.darkbg{
+  background-color: #135a71 !important;
+}
+
+.secpadding{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.cardiv{
+  border-radius: 15px;
+}
+
+.joinus{
+  color: #135a71;
+  font-weight: 500;
+}
+
+.plus{
+  margin-top: -34px;
+}
+
+
+
+.hcard:hover .ctitle{
+  color: coral;
+}
+
+
+
+
+.cardh {
+  position: relative;
+  display: inline-block;
+}
+
+
+
+.cardbody {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  
+  background-color: rgba(0, 0, 0, 0.5); /* Adjust the background color and opacity as needed */
+  color: #fff; 
+  opacity: 0;
+  transition: opacity 0.3s;
+  transform: scaleY(0.4);
+  transform-origin: bottom;
+}
+
+.cardh:hover .cardbody {
+  opacity: 1;
+}
+
+
+.about{
+  /* background-image: url("about.jpg"); */
+  background-color: #87daf337;
+}
+
+
+@media screen and (max-width:500px){
+  .w500{
+    display: none;
+  }
+  
+}
+
+.wunset{
+  width:unset !important ;
+}
